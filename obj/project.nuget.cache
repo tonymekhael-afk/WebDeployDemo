@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SR350xV5zyY=",
+  "success": true,
+  "projectFilePath": "/Users/tonymekhael/Desktop/C1#/WebDeployDemo/WebDeployDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/tonymekhael/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.9/microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
